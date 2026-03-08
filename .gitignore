@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+
+# Build output
+target/
+build/
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Environment variables / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Spring Boot specific
+spring-shell.log
