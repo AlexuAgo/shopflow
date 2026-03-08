@@ -1,4 +1,4 @@
-package com.shopflow.userservice.dto;
+package com.shopflow.user_service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

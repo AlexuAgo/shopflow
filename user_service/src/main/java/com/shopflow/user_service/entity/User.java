@@ -1,4 +1,4 @@
-package com.shopflow.userservice.entity;
+package com.shopflow.user_service.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
